@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  margin-top: 50vh;
+  background-color: #ffb73b;
+}
+h1 {
+  font-weight: bold;
+  font-size: 1.4rem;
+  color: white;
+}
